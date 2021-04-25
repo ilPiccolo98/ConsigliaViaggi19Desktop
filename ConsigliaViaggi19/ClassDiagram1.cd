@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ConsigliaViaggi19.MenuPrincipale">
+    <Position X="2.25" Y="1.25" Width="6" />
+    <TypeIdentifier>
+      <HashCode>ACgABAAgCDABCAQAEgDAAAAKgAAAAIAAAAAAAAgCAgQ=</HashCode>
+      <FileName>MenuPrincipale.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ricercaPersonalizzata" />
+      <Field Name="recensioni" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ConsigliaViaggi19.RicercaPersonalizzata">
+    <Position X="3.25" Y="9" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAASCBAAAAAACAAEADAAAABAAABAAQCAAEAAA=</HashCode>
+      <FileName>RicercaPersonalizzata.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Parametri" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ConsigliaViaggi19.Queries">
+    <Position X="18.25" Y="9" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAwgAABAAAABAAAAQAAAAAAAAACAiQAAAAAAA=</HashCode>
+      <FileName>Queries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsigliaViaggi19.ParametriRicercaStrutture">
+    <Position X="10.75" Y="10.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAABgAAAAAAAAAAAACAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>ParametriRicercaStrutture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsigliaViaggi19.Struttura">
+    <Position X="9.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAEIAAQ=</HashCode>
+      <FileName>Struttura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsigliaViaggi19.Recensioni">
+    <Position X="10.75" Y="2.75" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAggAGABCGQAAgCCACASAAAAQAAQgBkAAAACABA=</HashCode>
+      <FileName>Recensioni.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="visualizzaRecensione" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ConsigliaViaggi19.VisualizzaRecensione">
+    <Position X="21.5" Y="0.5" Width="7" />
+    <TypeIdentifier>
+      <HashCode>AAgAIAgAKiCBgAAAAgCACAACABAQAiBAYgSQCQAAACA=</HashCode>
+      <FileName>VisualizzaRecensione.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
